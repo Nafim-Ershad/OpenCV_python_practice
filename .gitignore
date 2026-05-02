@@ -1,0 +1,64 @@
+# Python cache files
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Windows venv folders
+
+Lib/
+Scripts/
+Include/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+
+# Output files
+
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.avi
+
+# Logs
+
+*.log
+
+# Build files
+
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+
+.env
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# OpenCV generated files (optional)
+
+output/
+results/
+
+
+assets/
